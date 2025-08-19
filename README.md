@@ -1,35 +1,31 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Tema escolhido:** Plataforma de Registro de Obras Literáias Lidas
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Lucas Queiroz Chaú
+- Cauan Hara Tamburi
+
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+Nossa aplicação é focada em auxiliar leitores na sua organização de obras literarias lidas. Onde poderá ser consultado quais foram as obras já finalizadas, quais estão em processo, onde se poderá acompanhar esse processo por meio das páginas e capítulos. Também sera possível definer metas, como datas limites para leitura, ou quantidade de livros lidos ate determinada data, ou somente próximos interesses. Outra função será a de avaliação das obras, onde será possivel compartilhar e discutir entre amigos.
 
 ## Introdução
 
-- Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
-- Em uma única frase, resuma o objetivo do serviço ou poduto.
-- Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+A aplicação ajudará na organização na hora de ler, facilitando a organização. Em uma forma simples e prática, com foco em ser didática com uma boa interação entre leitores, e servir como fonte de recomendações
 
 ## Publico Alvo
 
-- Determine o seu público alvo:
+Leitores, Escritores e críticos literários
 
 ### Personas
 
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
+  
 
 ### Mapa de empatia
 
@@ -50,6 +46,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+O usuário normalmente estará em casa ou em um ambiete propocio para leitura, como uma biblioteca, 
 
 ## Jornada do usuário
 
@@ -57,6 +54,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 - Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
   - Descreva o que acontece ou pode acontecer passo a passo
   - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja será enviado para a aba de cadastro, indicará suas preferências de gêneros literários, após será liberado para uso livre, onde terá a possibilidade de adicinar obras ja lidas, definir metas, adicionar amigos.
 
 ## Análise de concorrência
 
@@ -90,3 +88,4 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
