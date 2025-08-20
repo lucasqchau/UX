@@ -23,6 +23,7 @@ Leitores, Escritores e críticos literários
 ### Personas
 
 Personas Primárias
+  
   Nome: Isabelly Rodrigues 
   Idade: 22 
   Formação educacional: Estudante de psicologia 
@@ -38,6 +39,7 @@ Personas Primárias
   Motivação: Uso recreativo como hobby e para repertorio 
 
 Personas Secundárias
+  
   Nome: João Carlos da Silva 
   Idade: 37 
   Formação Educacional: Técnico de engenharia elétrica 
@@ -107,5 +109,6 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
