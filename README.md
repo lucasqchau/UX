@@ -22,7 +22,7 @@ Leitores, Escritores e críticos literários
 
 ### Personas
 
-Personas Primárias
+**Personas Primárias**
   
   Nome: Isabelly Rodrigues 
   
@@ -36,6 +36,8 @@ Personas Primárias
   
   Motivação: Aprofundar nos estudos do comportamento humano 
 
+------------------------------------------------------------------
+
   Nome: Matheus Gonçalves Silva 
   
   Idade: 17
@@ -48,7 +50,7 @@ Personas Primárias
   
   Motivação: Uso recreativo como hobby e para repertorio 
 
-Personas Secundárias
+**Personas Secundárias**
   
   Nome: João Carlos da Silva 
   
@@ -124,6 +126,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
