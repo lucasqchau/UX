@@ -50,6 +50,9 @@ Leitores, Escritores e críticos literários
   
   Motivação: Uso recreativo como hobby e para repertorio 
 
+------------------------------------------------------------------
+  
+
 **Personas Secundárias**
   
   Nome: João Carlos da Silva 
@@ -126,6 +129,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
