@@ -22,9 +22,28 @@ Leitores, Escritores e críticos literários
 
 ### Personas
 
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
+Personas Primárias
+  Nome: Isabelly Rodrigues 
+  Idade: 22 
+  Formação educacional: Estudante de psicologia 
+  Localização: Região Urbana 
+  Hábitos de consumo: Livros físicos e Kindle 
+  Motivação: Aprofundar nos estudos do comportamento humano 
 
+  Nome: Matheus Gonçalves Silva 
+  Idade: 17
+  Formação educacional: Estudante do Ensino Médio 
+  Localização: Interior do Estado 
+  Hábitos de consumo: Livros físicos
+  Motivação: Uso recreativo como hobby e para repertorio 
+
+Personas Secundárias
+  Nome: João Carlos da Silva 
+  Idade: 37 
+  Formação Educacional: Técnico de engenharia elétrica 
+  Localização: Região Urbana 
+  Hábitos de consumo: Quase nulo
+  Motivação:  Uso para recomendações de presentes 
   
 
 ### Mapa de empatia
@@ -88,4 +107,5 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
