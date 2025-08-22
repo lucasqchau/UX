@@ -83,6 +83,11 @@ Leitores, Escritores e críticos literários
 
 ## Contexto de uso
 
+- Este aplicativo é pensado para ser utilizado em qualquer momento do dia, de acordo com o hábito de leitura do usuário.
+- Personas primárias acessariam o aplicativo para atualizar o progresso de um livro que já esteja fazendo a leitura, pesquisar detalhadamente temas, autores,resumo, tags, comentários, avaliações de livros que já possui ou que está à procura, podendo se utilizar de uma ferramenta de filtragem dinâmica e simples, porém efetiva.
+- Personas secundárias apesar de não serem tão ativas como personas primárias, tammbém seriam muito bem beneficiadas, como a leitura como hobbie não é necessariamente rotineira e diária, usariam o aplicativo para consultar seu progresso no livro que está lendo no momento. E quando finalizado, pode, com poucos cliques, acessar o acervo de livros do mesmo autor, do mesmo tema, da mesma extensão, de mesmas avaliações e tags.
+- Personas terciárias, apesar de não serem usuários recorrentes, poderiam fazer uso do aplicativo apenas para consulta, seja para um presente ou da recomendação de algum conhecido. Podendo pesquisar facilmente nomes e gêneros em conjunto com avaliações, sabendo o gosto do aniversariante em questão, a persona terciária teria rapidamente respostas e recomendações de livros bons do tema de preferência. É bem possível também que pela facilidade de pesquisa e de consulta, uma persona terciária se torne um usuário mais frequente, se transformando em personas secundárias ou primárias.
+
 - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
@@ -90,6 +95,9 @@ Leitores, Escritores e críticos literários
 O usuário normalmente estará em casa ou em um ambiete propocio para leitura, como uma biblioteca, 
 
 ## Jornada do usuário
+
+- Ao chegar em casa depois da aula, Matheus Gonçalves gosta de ler por 1 hora antes de começãr a fazer suas tarefas escolares. Ele abre o aplicativo para consultar a página em que parou de ler 2 dias atrás. Ao abrir o aplicativo ele se depara com a sua biblioteca, com todos os livros que ele adicionou na ordem em que ele leu por último. Os livros estão dispostos verticalmente com suas informações ao lado, sendo eles nome, autor, capítulo lido por último e página lida por último. Após a consulta, ele lê seu livro e quando termina, basta atualizar o número da página em que parou clicando no mesmo. Após isso o aplicativo pode ser fechado seguramente visto que seu progresso já foi salvo.
+
 
 - Criar uma narrativa para o o seu serviço ou poduto com o usuário.
 - Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
@@ -99,7 +107,12 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 
 ## Análise de concorrência
 
-- Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
+- Pesquisando, foi possível encontrar várias aplicações que abordam o problema de formas diferentes, dentre elas, essas três se destacaram por além de cumprirem o o objetivo, elas trazem ainda mais funcionalidades para o usuário:
+ - LibraryThing = https://www.librarything.com
+ - The Greatest Books of All Time = https://thegreatestbooks.org
+ - Calibre = https://calibre-ebook.com
+
+-  Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
 - Selecione pelo menos 3 serviços ou podutos diferentes.
 - Em relação aos concorrentes, respondam as seguintes perguntas?
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
@@ -129,6 +142,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
