@@ -108,9 +108,9 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 ## Análise de concorrência
 
 - Pesquisando, foi possível encontrar várias aplicações que abordam o problema de formas diferentes, dentre elas, essas três se destacaram por além de cumprirem o o objetivo, elas trazem ainda mais funcionalidades para o usuário:
- - LibraryThing = https://www.librarything.com
- - The Greatest Books of All Time = https://thegreatestbooks.org
- - Calibre = https://calibre-ebook.com
+  - LibraryThing = https://www.librarything.com
+  - The Greatest Books of All Time = https://thegreatestbooks.org
+  - Calibre = https://calibre-ebook.com
 
 -  Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
 - Selecione pelo menos 3 serviços ou podutos diferentes.
@@ -142,6 +142,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
