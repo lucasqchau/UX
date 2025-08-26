@@ -120,6 +120,11 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 
 ## Coleta de dados
 
+- Card Sorting aberto: de 50 a 60 cards com títulos de livros sendo a maioria de livros mais populares. Nesta pesquisa será requisitado que os entrevistados categorizem os livros pelo seu gênero, deixando a organização livre e aberta à interpretação
+- Card Sorting fechado: cards contendo informações gerais dos livros. Serão criadas as categorias "Importante, Pouco Importante, Nada Importante" para a organização das informações que precisariam de mais destaque ou mais fáceis de serem encontradas:
+  - Títuto / Autor / Série / Extensão / Complexidade / Editora / Revisor / Preço / Ranking / Avaliações / Opiniões 
+
+
 ## Modelo de tarefas
 
 ## Design
@@ -142,6 +147,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
