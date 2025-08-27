@@ -84,16 +84,165 @@ Leitores, Escritores e críticos literários
 
 ![Mapa de empatia](empatia.png)
 
-- Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+Isabelly Rodrigues
+
+O que ela pensa e sente?
+
+  -Aprofundar-se no comportamento humano é a sua principal motivação.
+  
+  -Fascínio pela mente humana, vendo o mundo como um grande laboratório.
+  
+  -Pensa em como pode conectar a teoria dos livros com a prática da vida real.
+  
+O que ela fala e faz?
+
+  -É organizada e disciplinada nos estudos.
+
+  -Discute conceitos de psicologia com amigos e colegas.
+
+  -Faz anotações nos livros físicos e marca trechos no Kindle.
+
+O que ela ouve?
+
+  -O que seus professores e colegas de curso de psicologia falam.
+
+  -Podcasts e palestras sobre a mente humana.
+
+  -Opiniões de autores renomados da área.
+
+O que ela vê?
+
+  -Uma cidade grande e agitada, cheia de pessoas e interações.
+
+  -Biblioteca e livrarias como lugares de refúgio.
+
+  -Livros didáticos e artigos acadêmicos.
+
+Dores
+
+  -Saturação de informações: a grande quantidade de conteúdo pode ser esmagadora.
+
+  -Dificuldade em organizar diferentes formatos de conteúdo (livros físicos, e-books, artigos).
+
+  -Limitações financeiras para comprar todos os livros que deseja.
+
+Necessidades
+
+  -Aprofundamento nos estudos para se tornar uma excelente profissional.
+
+  -Sensação de realização ao entender um novo conceito.
+
+  -Maior facilidade para estudar em qualquer lugar (com o Kindle).
+
+------------------------------------------------------------------
+
+Matheus Gonçalves Silva
+
+O que ele pensa e sente?
+
+  -A leitura é um refúgio tranquilo da rotina.
+
+  -Sente prazer em se perder em novas histórias.
+
+  -Sente orgulho de ter um repertório cultural diferente dos amigos.
+
+O que ele fala e faz?
+
+  -Recomenda livros que gostou para amigos.
+
+  -Debate sobre as histórias e personagens que lê.
+
+  -Lê no seu tempo livre, geralmente na varanda de casa.
+
+O que ele escuta?
+
+  -Opiniões e recomendações de amigos e familiares sobre livros.
+
+  -Professores da escola falando sobre a importância da leitura para o vestibular.
+
+  -Os poucos comentários sobre livros nas redes sociais.
+
+O que ele vê?
+
+  -A estante de livros crescendo cada vez mais.
+
+  -A maioria dos amigos consumindo conteúdo digital (redes sociais, vídeos).
+
+  -A paisagem tranquila do interior.
+
+Dores
+
+  -Falta de acesso a grandes livrarias na sua cidade.
+
+  -Críticas de alguns amigos que não entendem seu hobby.
+
+  -Pode ser difícil encontrar os livros que deseja.
+
+Necessidades
+
+  -Senso de propósito e relaxamento no seu hobby.
+
+  -Repertório cultural para aprimorar suas redações e se destacar.
+
+  -Novas perspectivas e conhecimento de mundo através da leitura.
+
+------------------------------------------------------------------
+
+João Carlos da Silva
+
+O que ele pensa e sente?
+
+  -Preocupação em encontrar o presente perfeito para a sobrinha.
+
+  -Perplexidade e frustração com o universo da leitura, que ele desconhece.
+
+  -Alegria e satisfação em agradar a família.
+
+O que ele fala e faz?
+  
+  -Pergunta sobre os gostos da sobrinha para os pais dela.
+
+  -Demonstra interesse e esforço para encontrar a obra certa.
+
+  -Busca por recomendações de livros infantis ou juvenis.
+
+O que ele escuta?
+
+  -Dicas de amigos sobre onde comprar presentes.
+
+  -A sobrinha falando sobre o quanto ela adora ler.
+
+  -Pessoas falando sobre a importância da leitura para o desenvolvimento.
+
+O que ele vê?
+
+  -Prateleiras cheias de livros em lojas, sem saber por onde começar.
+
+  -A alegria no rosto de sua sobrinha ao receber um livro de presente.
+
+  -Anúncios e promoções de livros online.
+
+Dores
+
+  -Dificuldade de escolher o livro certo.
+
+  -Desconhecimento de autores e gêneros.
+
+  -Medo de errar no presente.
+
+Necessidades
+
+  -Alegria e aprovação da família.
+
+  -Ver a felicidade da sobrinha.
+
+  -Senso de dever cumprido ao entregar um bom presente.
 
 ## Contexto de uso
+
+Questionário:
+
+https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
 
 - Este aplicativo é pensado para ser utilizado em qualquer momento do dia, de acordo com o hábito de leitura do usuário.
 - Personas primárias acessariam o aplicativo para atualizar o progresso de um livro que já esteja fazendo a leitura, pesquisar detalhadamente temas, autores,resumo, tags, comentários, avaliações de livros que já possui ou que está à procura, podendo se utilizar de uma ferramenta de filtragem dinâmica e simples, porém efetiva.
@@ -159,6 +308,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
