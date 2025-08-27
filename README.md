@@ -57,6 +57,7 @@ Leitores, Escritores e críticos literários
   Matheus, de 17 anos, vive no interior do estado e adora a tranquilidade da sua cidade. Para ele, nada se compara a sentar na varanda de casa, sentir a brisa fresca e se perder nas páginas de um livro físico.
   Enquanto seus amigos passam horas em frente a telas, Matheus prefere o toque do papel e o cheiro de um livro novo. Sua pequena estante já está cheia, e ele adora emprestar seus livros favoritos para amigos e     familiares, para que eles possam sentir a mesma alegria que ele sente.
   A leitura é mais do que um hobby para ele; é uma forma de relaxar e de viajar para lugares que nunca visitou. Além disso, essa paixão também o ajuda na escola, pois ele usa o que lê para enriquecer suas          redações e ter um bom repertório.
+
 ------------------------------------------------------------------
   
 
@@ -158,6 +159,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
