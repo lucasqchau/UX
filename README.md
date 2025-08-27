@@ -34,7 +34,11 @@ Leitores, Escritores e críticos literários
   
   Hábitos de consumo: Livros físicos e Kindle 
   
-  Motivação: Aprofundar nos estudos do comportamento humano 
+  Motivação: Aprofundar nos estudos do comportamento humano
+
+  A brisa suave de uma manhã de sábado entra pela janela do quarto de Isabelly, de 22 anos. Ela é estudante de psicologia, e o mundo para ela é um vasto laboratório de comportamento humano.
+  Hoje, sua missão é mergulhar em um novo livro sobre psicologia cognitiva. Ela adora a sensação de virar as páginas de um livro físico, mas a praticidade do seu Kindle a conquistou para os momentos de estudo      mais intensos ou quando está fora de casa.
+  Isabelly sabe que, para entender a mente, é preciso observar. Ela vive na região urbana, um cenário perfeito para suas observações, e cada pessoa que encontra na rua é uma fonte de inspiração para seus           estudos. Sua motivação é clara: aprofundar-se no complexo e fascinante universo do comportamento humano.
 
 ------------------------------------------------------------------
 
@@ -50,6 +54,9 @@ Leitores, Escritores e críticos literários
   
   Motivação: Uso recreativo como hobby e para repertorio 
 
+  Matheus, de 17 anos, vive no interior do estado e adora a tranquilidade da sua cidade. Para ele, nada se compara a sentar na varanda de casa, sentir a brisa fresca e se perder nas páginas de um livro físico.
+  Enquanto seus amigos passam horas em frente a telas, Matheus prefere o toque do papel e o cheiro de um livro novo. Sua pequena estante já está cheia, e ele adora emprestar seus livros favoritos para amigos e     familiares, para que eles possam sentir a mesma alegria que ele sente.
+  A leitura é mais do que um hobby para ele; é uma forma de relaxar e de viajar para lugares que nunca visitou. Além disso, essa paixão também o ajuda na escola, pois ele usa o que lê para enriquecer suas          redações e ter um bom repertório.
 ------------------------------------------------------------------
   
 
@@ -66,6 +73,10 @@ Leitores, Escritores e críticos literários
   Hábitos de consumo: Quase nulo
   
   Motivação:  Uso para recomendações de presentes 
+
+  João Carlos, de 37 anos, é um técnico de engenharia elétrica que vive na agitação da cidade. Seu dia a dia é preenchido com circuitos, fios e projetos, deixando pouco tempo para lazer. Ele não tem o hábito de    ler, mas se vê em uma situação em que precisa.
+  Com o aniversário de sua sobrinha se aproximando, ele se sente perdido. Sabe que ela adora ler, mas não faz ideia de qual livro comprar. Sua sobrinha é a única pessoa da família com esse hobby, e ele se          preocupa em escolher um presente que ela realmente goste.
+  A leitura para ele é apenas uma ferramenta, uma forma de encontrar o presente ideal e de ver a alegria no rosto de sua sobrinha. Sua motivação não é o consumo para si, mas o desejo genuíno de agradar a quem      ama, garantindo que o presente de aniversário seja perfeito.
   
 
 ### Mapa de empatia
@@ -147,6 +158,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
