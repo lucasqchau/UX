@@ -240,14 +240,11 @@ Necessidades
 
 ## Contexto de uso
 
-Questionário:
 
-https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
 
-- Este aplicativo é pensado para ser utilizado em qualquer momento do dia, de acordo com o hábito de leitura do usuário.
-- Personas primárias acessariam o aplicativo para atualizar o progresso de um livro que já esteja fazendo a leitura, pesquisar detalhadamente temas, autores,resumo, tags, comentários, avaliações de livros que já possui ou que está à procura, podendo se utilizar de uma ferramenta de filtragem dinâmica e simples, porém efetiva.
-- Personas secundárias apesar de não serem tão ativas como personas primárias, tammbém seriam muito bem beneficiadas, como a leitura como hobbie não é necessariamente rotineira e diária, usariam o aplicativo para consultar seu progresso no livro que está lendo no momento. E quando finalizado, pode, com poucos cliques, acessar o acervo de livros do mesmo autor, do mesmo tema, da mesma extensão, de mesmas avaliações e tags.
-- Personas terciárias, apesar de não serem usuários recorrentes, poderiam fazer uso do aplicativo apenas para consulta, seja para um presente ou da recomendação de algum conhecido. Podendo pesquisar facilmente nomes e gêneros em conjunto com avaliações, sabendo o gosto do aniversariante em questão, a persona terciária teria rapidamente respostas e recomendações de livros bons do tema de preferência. É bem possível também que pela facilidade de pesquisa e de consulta, uma persona terciária se torne um usuário mais frequente, se transformando em personas secundárias ou primárias.
+- Ao chegar em casa depois da aula, Matheus Gonçalves gosta de ler por 1 hora antes de começãr a fazer suas tarefas escolares. Ele abre o aplicativo para consultar a página em que parou de ler 2 dias atrás. Ao abrir o aplicativo ele se depara com a sua biblioteca, com todos os livros que ele adicionou na ordem em que ele leu por último. Os livros estão dispostos com suas informações ao lado, sendo eles nome, autor, capítulo lido por último e página lida por último. Após a consulta, ele lê seu livro e quando termina, basta atualizar o número da página em que parou clicando no mesmo. Após isso o aplicativo pode ser fechado seguramente visto que seu progresso já foi salvo.
+- Caso esse aplicativo não exista, Matheus não teria acesso tão fácil à pesquisa de livros ou da leitura de livros que já possuí. Para marcação de progresso, provavelmente usaria um marcador de páginas, como muitas outras pessoas também usam, apesar de existirem os que não gostam. A principal diferença estaria na procura de algum título novo, teria de se contentar com recomendações de conhecidos ou de blogs na internet de outras pessoas que estão também dando e recebendo recomendações. Poderia também visitar livrarias e bibliotecas, apesar de ser uma boa escolha, seria um tanto difícil de achar algo quando todas as obras estão organizadas apenas por gênero e ordem alfabética do autor, podendo, ao máximo, ler a sinopse em seus versos. Além de não poder ver muitas informações úteis para auxiliar em sua escolha, também não há garantia de que a livraria terá todos os livros do autor que procura do gênero que deseja, dessa forma, fazendo sua vizita não tão eficaz.
+
 
 - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
@@ -257,7 +254,10 @@ O usuário normalmente estará em casa ou em um ambiete propocio para leitura, c
 
 ## Jornada do usuário
 
-- Ao chegar em casa depois da aula, Matheus Gonçalves gosta de ler por 1 hora antes de começãr a fazer suas tarefas escolares. Ele abre o aplicativo para consultar a página em que parou de ler 2 dias atrás. Ao abrir o aplicativo ele se depara com a sua biblioteca, com todos os livros que ele adicionou na ordem em que ele leu por último. Os livros estão dispostos verticalmente com suas informações ao lado, sendo eles nome, autor, capítulo lido por último e página lida por último. Após a consulta, ele lê seu livro e quando termina, basta atualizar o número da página em que parou clicando no mesmo. Após isso o aplicativo pode ser fechado seguramente visto que seu progresso já foi salvo.
+- Este aplicativo é pensado para ser utilizado em qualquer momento do dia, de acordo com o hábito de leitura do usuário.
+- Personas primárias acessariam o aplicativo para atualizar o progresso de um livro que já esteja fazendo a leitura, pesquisar detalhadamente temas, autores,resumo, tags, comentários, avaliações de livros que já possui ou que está à procura, podendo se utilizar de uma ferramenta de filtragem dinâmica e simples, porém efetiva.
+- Personas primárias apesar de não serem tão ativas como personas primárias, tammbém seriam muito bem beneficiadas, como a leitura como hobbie não é necessariamente rotineira e diária, usariam o aplicativo para consultar seu progresso no livro que está lendo no momento. E quando finalizado, pode, com poucos cliques, acessar o acervo de livros do mesmo autor, do mesmo tema, da mesma extensão, de mesmas avaliações e tags.
+- Personas secundárias, apesar de não serem usuários recorrentes, poderiam fazer uso do aplicativo apenas para consulta, seja para um presente ou da recomendação de algum conhecido. Podendo pesquisar facilmente nomes e gêneros em conjunto com avaliações, sabendo o gosto do aniversariante em questão, a persona terciária teria rapidamente respostas e recomendações de livros bons do tema de preferência. É bem possível também que pela facilidade de pesquisa e de consulta, uma persona terciária se torne um usuário mais frequente, se transformando em personas secundárias ou primárias.
 
 
 - Criar uma narrativa para o o seu serviço ou poduto com o usuário.
@@ -281,9 +281,11 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 
 ## Coleta de dados
 
-- Card Sorting aberto: de 50 a 60 cards com títulos de livros sendo a maioria de livros mais populares. Nesta pesquisa será requisitado que os entrevistados categorizem os livros pelo seu gênero, deixando a organização livre e aberta à interpretação
+Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
+
+- Card Sorting aberto: de 50 a 60 cards com títulos de livros sendo a maioria de livros mais populares. Nesta pesquisa será requisitado que os entrevistados categorizem os livros pelo seu gênero, deixando a organização livre e aberta à sua interpretação.
 - Card Sorting fechado: cards contendo informações gerais dos livros. Serão criadas as categorias "Importante, Pouco Importante, Nada Importante" para a organização das informações que precisariam de mais destaque ou mais fáceis de serem encontradas:
-  - Títuto / Autor / Série / Extensão / Complexidade / Editora / Revisor / Preço / Ranking / Avaliações / Opiniões 
+  - Títuto / Autor / Série / Gênero / Tema / Sinopse / Popularidade / Data de Lançamento / Extensão / Complexidade Linguística / Editora / Revisor / Preço / Ranking / Avaliações / Recomendações / Fórum de discussões / Entradas Relacionadas (próximo ou anterior livro da série) / Lista de Personagens / Origem do Título
 
 
 ## Modelo de tarefas
@@ -308,6 +310,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
