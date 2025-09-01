@@ -269,9 +269,10 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 ## Coleta de dados
 
 Questionário:
-https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
+- https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
 
 - Card Sorting aberto: de 50 a 60 cards com títulos de livros sendo a maioria de livros mais populares. Nesta pesquisa será requisitado que os entrevistados categorizem os livros pelo seu gênero, deixando a organização livre e aberta à sua interpretação.
+
 - Card Sorting fechado: cards contendo informações gerais dos livros. Serão criadas as categorias "Importante, Pouco Importante, Nada Importante" para a organização das informações que precisariam de mais destaque ou mais fáceis de serem encontradas:
   - Títuto / Autor / Série / Gênero / Tema / Sinopse / Popularidade / Data de Lançamento / Extensão / Complexidade Linguística / Editora / Revisor / Preço / Ranking / Avaliações / Recomendações / Fórum de discussões / Entradas Relacionadas (próximo ou anterior livro da série) / Lista de Personagens / Origem do Título
 
@@ -311,6 +312,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275Q
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
