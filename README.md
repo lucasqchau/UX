@@ -268,8 +268,7 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 
 ## Coleta de dados
 
-Questionário:
-- https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
+Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
 
 - Card Sorting aberto: de 50 a 60 cards com títulos de livros sendo a maioria de livros mais populares. Nesta pesquisa será requisitado que os entrevistados categorizem os livros pelo seu gênero, deixando a organização livre e aberta à sua interpretação.
 
@@ -312,6 +311,7 @@ Questionário:
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
