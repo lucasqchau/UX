@@ -266,6 +266,15 @@ O usuário normalmente estará em casa ou em um ambiete propocio para leitura, c
   - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
 O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja será enviado para a aba de cadastro, indicará suas preferências de gêneros literários, após será liberado para uso livre, onde terá a possibilidade de adicinar obras ja lidas, definir metas, adicionar amigos.
 
+## Coleta de dados
+
+Questionário:
+https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
+
+- Card Sorting aberto: de 50 a 60 cards com títulos de livros sendo a maioria de livros mais populares. Nesta pesquisa será requisitado que os entrevistados categorizem os livros pelo seu gênero, deixando a organização livre e aberta à sua interpretação.
+- Card Sorting fechado: cards contendo informações gerais dos livros. Serão criadas as categorias "Importante, Pouco Importante, Nada Importante" para a organização das informações que precisariam de mais destaque ou mais fáceis de serem encontradas:
+  - Títuto / Autor / Série / Gênero / Tema / Sinopse / Popularidade / Data de Lançamento / Extensão / Complexidade Linguística / Editora / Revisor / Preço / Ranking / Avaliações / Recomendações / Fórum de discussões / Entradas Relacionadas (próximo ou anterior livro da série) / Lista de Personagens / Origem do Título
+
 ## Análise de concorrência
 
 - Pesquisando, foi possível encontrar várias aplicações que abordam o problema de formas diferentes, dentre elas, essas três se destacaram por além de cumprirem o o objetivo, elas trazem ainda mais funcionalidades para o usuário:
@@ -278,14 +287,6 @@ O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja 
 - Em relação aos concorrentes, respondam as seguintes perguntas?
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
-
-## Coleta de dados
-
-Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6QCFoADSyg4_275QdHCsLqERNQ/viewform?usp=header
-
-- Card Sorting aberto: de 50 a 60 cards com títulos de livros sendo a maioria de livros mais populares. Nesta pesquisa será requisitado que os entrevistados categorizem os livros pelo seu gênero, deixando a organização livre e aberta à sua interpretação.
-- Card Sorting fechado: cards contendo informações gerais dos livros. Serão criadas as categorias "Importante, Pouco Importante, Nada Importante" para a organização das informações que precisariam de mais destaque ou mais fáceis de serem encontradas:
-  - Títuto / Autor / Série / Gênero / Tema / Sinopse / Popularidade / Data de Lançamento / Extensão / Complexidade Linguística / Editora / Revisor / Preço / Ranking / Avaliações / Recomendações / Fórum de discussões / Entradas Relacionadas (próximo ou anterior livro da série) / Lista de Personagens / Origem do Título
 
 
 ## Modelo de tarefas
@@ -310,6 +311,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
