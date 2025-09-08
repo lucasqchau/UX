@@ -246,12 +246,6 @@ Necessidades
 - Caso esse aplicativo não exista, Matheus não teria acesso tão fácil à pesquisa de livros ou da leitura de livros que já possuí. Para marcação de progresso, provavelmente usaria um marcador de páginas, como muitas outras pessoas também usam, apesar de existirem os que não gostam. A principal diferença estaria na procura de algum título novo, teria de se contentar com recomendações de conhecidos ou de blogs na internet de outras pessoas que estão também dando e recebendo recomendações. Poderia também visitar livrarias e bibliotecas, apesar de ser uma boa escolha, seria um tanto difícil de achar algo quando todas as obras estão organizadas apenas por gênero e ordem alfabética do autor, podendo, ao máximo, ler a sinopse em seus versos. Além de não poder ver muitas informações úteis para auxiliar em sua escolha, também não há garantia de que a livraria terá todos os livros do autor que procura do gênero que deseja, dessa forma, fazendo sua vizita não tão eficaz.
 
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
-O usuário normalmente estará em casa ou em um ambiete propocio para leitura, como uma biblioteca, 
-
 ## Jornada do usuário
 
 - Este aplicativo é pensado para ser utilizado em qualquer momento do dia, de acordo com o hábito de leitura do usuário.
@@ -259,12 +253,6 @@ O usuário normalmente estará em casa ou em um ambiete propocio para leitura, c
 - Personas primárias apesar de não serem tão ativas como personas primárias, tammbém seriam muito bem beneficiadas, como a leitura como hobbie não é necessariamente rotineira e diária, usariam o aplicativo para consultar seu progresso no livro que está lendo no momento. E quando finalizado, pode, com poucos cliques, acessar o acervo de livros do mesmo autor, do mesmo tema, da mesma extensão, de mesmas avaliações e tags.
 - Personas secundárias, apesar de não serem usuários recorrentes, poderiam fazer uso do aplicativo apenas para consulta, seja para um presente ou da recomendação de algum conhecido. Podendo pesquisar facilmente nomes e gêneros em conjunto com avaliações, sabendo o gosto do aniversariante em questão, a persona terciária teria rapidamente respostas e recomendações de livros bons do tema de preferência. É bem possível também que pela facilidade de pesquisa e de consulta, uma persona terciária se torne um usuário mais frequente, se transformando em personas secundárias ou primárias.
 
-
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
-O usuário acessara a plataforma, efetuara o login com sua conta, caso nao haja será enviado para a aba de cadastro, indicará suas preferências de gêneros literários, após será liberado para uso livre, onde terá a possibilidade de adicinar obras ja lidas, definir metas, adicionar amigos.
 
 ## Coleta de dados
 
@@ -300,6 +288,15 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 ### Prototipação em baixo nível (papel)
 #### Avaliação heurística
 
+-Pagina inicial
+
+![PgInicial](https://github.com/user-attachments/assets/552f5ec7-c256-477f-95fa-5b3a1fdbc81a)
+
+-Pagina pefil
+
+![PgPerfil](https://github.com/user-attachments/assets/67ef2c0a-a929-444a-8853-e71b3b6db81e)
+
+
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
 
@@ -311,6 +308,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
