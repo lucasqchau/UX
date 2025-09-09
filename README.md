@@ -276,9 +276,6 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
-
-## Modelo de tarefas
-
 ## Design
 
 - Pense nas características de Affordances do seu serviço ou poduto. 
@@ -297,6 +294,11 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 ![PgPerfil](https://github.com/user-attachments/assets/67ef2c0a-a929-444a-8853-e71b3b6db81e)
 
 
+## Modelo de tarefas
+- GOMS (Goals, Operators, Methods, e Selection Rules) Com foco nas personas primárias
+  - Pesquisa de um livro específico (podendo ser pelo nome, autor, gênero, editora, série, ano de lançamento, nacionalidade, ranking, lista de outro usuário)
+  - Adição de um livro na sua lista (podendo conter os objetivos do usuário, progresso, avaliação)
+
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
 
@@ -308,6 +310,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
