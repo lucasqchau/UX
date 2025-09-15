@@ -298,6 +298,24 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 - GOMS (Goals, Operators, Methods, e Selection Rules) Com foco nas personas primárias
   - Pesquisa de um livro específico (podendo ser pelo nome, autor, gênero, editora, série, ano de lançamento, nacionalidade, ranking, lista de outro usuário)
   - Adição de um livro na sua lista (podendo conter os objetivos do usuário, progresso, avaliação)
+- GOAL 0 - Adicionar um livro na sua lista
+    - GOAL 1 - Encontrar o livro em especifico
+        - METHOD 1.A: Pesquisar na barra de pesquisa
+          - (SEL. RULE: O usuario ja sabe o nome do livro)
+              - OP.1.A.1: Deslocar o mouse para a barra lateral
+              - OP.1.A.2: Selecionar o aba de pesquisar
+              - OP.1.A.3: Selecionar a barra de pesquisa
+              - OP.1.A.4: Digitar o nome do livro
+        - METHOD 1.B: Achar no catalogo
+          - (SEL. RULE: O usuario não conheçe o livro)
+              - OP1.B.1: Deslocar o mouse para a barra lateral
+              - OP.1.B.2: Selecionar o aba de pesquisar
+              - OP.1.B.3: Procurar no catalogo
+    - GOAL 2 - Adicionar na lista
+        - METHOD 2.A: Clicar no botão de salvar
+          - (SEL. RULE: o usuario quer salver o livro)
+              - OP.1.A.1: Deslocar o mouse ate o icone de salvar
+              - Op.1.A.2: Salvar
 
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
@@ -310,6 +328,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
