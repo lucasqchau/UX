@@ -298,25 +298,58 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 - GOMS (Goals, Operators, Methods, e Selection Rules) Com foco nas personas primárias
   - Pesquisa de um livro específico (podendo ser pelo nome, autor, gênero, editora, série, ano de lançamento, nacionalidade, ranking, lista de outro usuário)
   - Adição de um livro na sua lista (podendo conter os objetivos do usuário, progresso, avaliação)
+
+### Adicionar um livro à sua lista:
 - GOAL 0 - Adicionar um livro na sua lista
     - GOAL 1 - Encontrar o livro em especifico
         - METHOD 1.A: Pesquisar na barra de pesquisa
           - (SEL. RULE: O usuario ja sabe o nome do livro)
-              - OP.1.A.1: Deslocar o mouse para a barra lateral
-              - OP.1.A.2: Selecionar o aba de pesquisar
-              - OP.1.A.3: Selecionar a barra de pesquisa
-              - OP.1.A.4: Digitar o nome do livro
+              - OP 1.A.1: Deslocar o mouse para a barra lateral
+              - OP 1.A.2: Selecionar o aba de pesquisar
+              - OP 1.A.3: Selecionar a barra de pesquisa
+              - OP 1.A.4: Digitar o nome do livro
         - METHOD 1.B: Achar no catalogo
           - (SEL. RULE: O usuario não conheçe o livro)
-              - OP1.B.1: Deslocar o mouse para a barra lateral
-              - OP.1.B.2: Selecionar o aba de pesquisar
-              - OP.1.B.3: Procurar no catalogo
+              - OP 1.B.1: Deslocar o mouse para a barra lateral
+              - OP 1.B.2: Selecionar o aba de pesquisar
+              - OP 1.B.3: Procurar no catalogo
     - GOAL 2 - Adicionar na lista
         - METHOD 2.A: Clicar no botão de salvar
           - (SEL. RULE: o usuario quer salver o livro)
-              - OP.1.A.1: Deslocar o mouse ate o icone de salvar
-              - Op.1.A.2: Salvar
+              - OP 1.A.1: Deslocar o mouse ate o icone de salvar
+              - Op 1.A.2: Salvar
+           
+### Pesquisar um livro específico:
+- Goal 0 - Encontrar um livro específico
+    - Method 1.A: Barra de pesuisa
+    - Method 1.B: Procurar no catálogo
+    - Method 1.C: Procurar nos ranks
+      - (SEL. RULE: usuário sabe que o livro é bem famoso / bem avaliado)
+        - OP 1.C.1: Deslocar o mouse para a barra lateral
+        - OP 1.C.2: Selecionar o aba de ranking
+    - Method 1.D: Recentes
+      - (SEL. RULE: usuário sabe que o livro está em sua lista)
+        - OP 1.D.1: Deslocar o mouse para a barra lateral
+        - OP 1.D.2: Selecionar o icone do perfil
+        - OP 1.D.3: Deslocar o mouse para a aba de recentes
+    - Method 1.E: Lista de outro usuário
+      - (SEL. RULE: usuário sabe que o livro está na lista de outro usuário)
+        - OP 1.E.1: Deslocar o mouse para a barra lateral
+        - OP 1.E.2: Selecionar o aba de pesquisar
+        - OP 1.E.3: Selecionar a barra de pesquisa
+        - OP 1.E.4: Digitar o nome do usuário
+        - OP 1.E.5: Selecionar o usuário
+        - OP 1.E.6: Selecionar a lista de livros do usuário
+    - Method 1.F: Procurar pelo autor
+      - (SEL. RULE: usuário sabe que o nome do outor do livro)
+        - OP 1.F.1: Deslocar o mouse para a barra lateral
+        - OP 1.F.2: Selecionar o aba de pesquisar
+        - OP 1.F.3: Selecionar a barra de pesquisa
+        - OP 1.F.4: Digitar o nome do autor
+        - OP 1.F.5: Selecionar o autor
+        - OP 1.F.6: Selecionar a lista de livros do autor
 
+        
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
 
@@ -328,6 +361,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
