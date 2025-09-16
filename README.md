@@ -321,7 +321,12 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
            
 ### Pesquisar um livro específico:
 - Goal 0 - Encontrar um livro específico
-    - Method 1.A: Barra de pesuisa
+    - Method 1.A: Barra de pesquisa
+      - (SEL. RULE: O usuario ja sabe o nome do livro)
+        - OP 1.A.1: Deslocar o mouse para a barra lateral
+        - OP 1.A.2: Selecionar o aba de pesquisar
+        - OP 1.A.3: Selecionar a barra de pesquisa
+        - OP 1.A.4: Digitar o nome do livro
     - Method 1.B: Procurar no catálogo
     - Method 1.C: Procurar nos ranks
       - (SEL. RULE: usuário sabe que o livro é bem famoso / bem avaliado)
@@ -361,6 +366,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
