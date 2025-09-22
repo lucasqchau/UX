@@ -328,6 +328,10 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
         - OP 1.A.3: Selecionar a barra de pesquisa
         - OP 1.A.4: Digitar o nome do livro
     - Method 1.B: Procurar no catálogo
+      - (SEL. RULE: O usuario não conheçe o livro)
+        - OP 1.B.1: Deslocar o mouse para a barra lateral
+        - OP 1.B.2: Selecionar o aba de pesquisar
+        - OP 1.B.3: Procurar no catalogo
     - Method 1.C: Procurar nos ranks
       - (SEL. RULE: usuário sabe que o livro é bem famoso / bem avaliado)
         - OP 1.C.1: Deslocar o mouse para a barra lateral
@@ -366,6 +370,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
