@@ -359,6 +359,39 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
         - OP 1.F.6: Selecionar a lista de livros do autor
 
         
+### Processos de Projeto de IHC
+
+- Características da Plataforma:
+  - Descrição: Aplicativo mobile / site de consulta, catálogo e acompanhamento de títulos literários nacionais e internacionais.
+    - Especificações de software: JS, HTML, CSS, Java, SQL
+      
+  - Capacidades:
+    - Mobilidade e praticidade: Em qualquer lugar e a qualquer momento, será possível fazer o uso do aplicativo via smartphone para efetuar pesquisas e consultas em sua lista
+    - Modo Offline: se não possuir conexão com a internet, apenas a sua própria lista poderá ser consultada e editada, conexão com a internet será necessária para a sincronização dos dados locais com os servidores do app / site
+    - Compartilhamento: ao enviar um link de um livro para algueém que possua o app, ela será redirecionada para a entrada do livro, caso não possua o app, será redirecionada à página web do mesmo
+      
+  - Restrições:
+    - Internet: Caso o aparelho não possua conexão com a internet, não será possível efetuar nenhum tipo de pesquisa, apenas consulta da lista do usuário
+    - Novos títulos: É possível que demore mais do que o normal para que livros novos, menos populares sejam adicionados ao banco de dados, seja pela dificuldade de encontrar informações, ou por não estarmos ciente de sua existência
+   
+- Princípios Gerais de Projeto:
+  - Contexto de uso:
+    
+  - Referência: Termos de serviço, política de privacidade, política de banimento de conta, manual de interface do usuário, como formato, tamanho e cor de botões, fotos, títulos, ícones ou quantiade máxima de caractéres em locais diferentes da aplicação levando em consideração as dimenções de tela de smartphones e monitores
+    
+  - Descrição da referência:
+    - Termos de serviço seria tnato para uso interno quanto externo, usuários teriam que aceitar e ler os termos para poderem usufruir dos serviços, e moderadores o consultariam para poderem supervisionar melhor a plataforma
+    - Política de privacidade: informações do usuário que o aplicativo poderá requisitar e utilizar
+    - Manual de interface do usuário: padronização do estilo para qua a sua utilização seja consistente, fácil, modular e flexível em aparelhos com tamanho de tela diferentes
+      
+  - Link da referência:
+
+
+
+
+
+
+
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
 
