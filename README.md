@@ -387,6 +387,28 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
   - Link da referência:
 
 
+### Molic
+
+- Perfil do usuário
+  
+<img width="937" height="876" alt="Perfil_do_Usuario" src="https://github.com/user-attachments/assets/717ccd83-598c-4887-96ed-5c3c1743bf33" />
+
+- Lista do usuário
+  
+<img width="763" height="784" alt="Lista_do_usuario" src="https://github.com/user-attachments/assets/580e219b-d57f-4396-97fe-f2a0896d71b0" />
+
+- Pesquisar título
+  
+<img width="433" height="769" alt="Pesquisar_Titulo" src="https://github.com/user-attachments/assets/51686635-3b90-44b4-9f18-d678abac5b01" />
+
+- Objetivos
+  
+<img width="461" height="773" alt="Objetivos" src="https://github.com/user-attachments/assets/bc43d798-8ccb-485d-aa5f-9163a2cfd21c" />
+
+
+
+
+
 
 
 
@@ -405,6 +427,7 @@ https://www.figma.com/design/Fu3aNTkPzFvOEIeQsBedBR/Ux?node-id=0-1&t=Wr488o8jDKL
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
