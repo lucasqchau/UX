@@ -393,7 +393,9 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 
 
 ### Prtotipação em médio nível (Figma)
+https://www.figma.com/design/Fu3aNTkPzFvOEIeQsBedBR/Ux?node-id=0-1&t=Wr488o8jDKLNBRgA-1
 #### Avaliação heurística
+[Modelo 02 Avaliacao Heuristica_Respondido (1).doc](https://github.com/user-attachments/files/23467800/Modelo.02.Avaliacao.Heuristica_Respondido.1.doc)
 
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
@@ -403,6 +405,7 @@ Questionário: https://docs.google.com/forms/d/e/1FAIpQLScBuruLT9EazFddr7ZdDeUb6
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
